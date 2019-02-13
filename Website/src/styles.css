@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    padding-top: 100px
+}
+
+.container-sidebar {
+    float: left;
+    width: 4rem;
+    height: 8rem;
+    background-color: slateblue;
+    border-radius: 20px;
+    width: 20%;
+}
+
+.container-body {
+    height: 8rem;
+    box-sizing: border-box;
+    width: 70%;
+    background-color: lightseagreen;
+    border-radius: 20px;
+}
