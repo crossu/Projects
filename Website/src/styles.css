@@ -10,7 +10,7 @@ body {
     height: 8rem;
     background-color: slateblue;
     border-radius: 20px;
-    width: 20%;
+    width: 30%;
 }
 
 .container-body {
@@ -19,4 +19,8 @@ body {
     width: 70%;
     background-color: lightseagreen;
     border-radius: 20px;
+}
+
+.selector {
+    
 }

@@ -1,0 +1,17 @@
+body {
+    padding-top: 100px
+}
+
+#maincont {
+    height: 8rem;
+    box-sizing: border-box;
+    width: 70%;
+    background-color: lightseagreen;
+    border-radius: 20px;
+}
+
+#selector {
+    color: black;
+    font: 200;
+    
+}
